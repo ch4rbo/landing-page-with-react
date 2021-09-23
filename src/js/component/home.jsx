@@ -146,6 +146,14 @@ const Home = () => {
 					</div>
 				</div>
 			</div>
+			<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+				<div className="container-fluid d-flex justify-content-between">
+					<div>
+						<a className="navbar-brand" href="#"></a>
+					</div>
+					<div></div>
+				</div>
+			</nav>
 		</div>
 	);
 };
