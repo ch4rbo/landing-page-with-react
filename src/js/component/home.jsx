@@ -49,77 +49,100 @@ const Home = () => {
 			</nav>
 			<div className="container">
 				<div className="jumbotron">
-					<h1 className="display-4">Hello, world!</h1>
+					<h1 className="display-4">
+						Hola, este es el blog de Prometeo!
+					</h1>
 					<p className="lead">
-						This is a simple hero unit, a simple jumbotron-style
-						component for calling extra attention to featured
-						content or information.
+						Prometeo es el perro de Ch4rbo, su mejor amigo. Él
+						siempre está listo para salir a bailar, dormir la
+						siesta, comer chivitos, alentar a la selección Uruguaya
+						e ir a la playa.
 					</p>
 					<hr className="my-4" />
 					<p>
-						It uses utility classes for typography and spacing to
-						space content out within the larger container.
+						Prometeo también es asesor de imagen y puedes
+						contactarlo si lo deseas.
 					</p>
 					<a
 						className="btn btn-primary btn-lg"
 						href="#"
 						role="button">
-						Learn more
+						Contactar a Prome
 					</a>
 				</div>
-				<div className="card" style={{ width: "18rem" }}>
-					<img src="..." className="card-img-top" alt="..." />
-					<div className="card-body">
-						<h5 className="card-title">Card title</h5>
-						<p className="card-text">
-							Some quick example text to build on the card title
-							and make up the bulk of the cards content.
-						</p>
-						<a href="#" className="btn btn-primary">
-							Go somewhere
-						</a>
-					</div>
-				</div>
 
-				<div className="card" style={{ width: "18rem" }}>
-					<img src="..." className="card-img-top" alt="..." />
-					<div className="card-body">
-						<h5 className="card-title">Card title</h5>
-						<p className="card-text">
-							Some quick example text to build on the card title
-							and make up the bulk of the cards content.
-						</p>
-						<a href="#" className="btn btn-primary">
-							Go somewhere
-						</a>
+				<div className="container-fluid d-flex justify-content-between">
+					<div className="card" style={{ width: "18rem" }}>
+						<img
+							src="https://i.ibb.co/MkGWpwF/a.jpg"
+							className="card-img-top"
+							alt="Prometeo facha"
+						/>
+						<div className="card-body">
+							<h5 className="card-title">Prometeo facha</h5>
+							<p className="card-text">
+								Se viene la primavera y Prometeo lo sabe.
+							</p>
+							<a href="#" className="btn btn-primary">
+								Solicitar lentes originales
+							</a>
+						</div>
 					</div>
-				</div>
 
-				<div className="card" style={{ width: "18rem" }}>
-					<img src="..." className="card-img-top" alt="..." />
-					<div className="card-body">
-						<h5 className="card-title">Card title</h5>
-						<p className="card-text">
-							Some quick example text to build on the card title
-							and make up the bulk of the cards content.
-						</p>
-						<a href="#" className="btn btn-primary">
-							Go somewhere
-						</a>
+					<div className="card" style={{ width: "18rem" }}>
+						<img
+							src="https://i.ibb.co/QDQFtYC/b.jpg"
+							className="card-img-top"
+							alt="Prometeo ama su mantita"
+						/>
+						<div className="card-body">
+							<h5 className="card-title">Ama a su mantita</h5>
+							<p className="card-text">
+								Mientras se van los fríos aprovecha a dormir la
+								siesta.
+							</p>
+							<a href="#" className="btn btn-primary">
+								Solicitar mantita autografiada
+							</a>
+						</div>
 					</div>
-				</div>
 
-				<div className="card" style={{ width: "18rem" }}>
-					<img src="..." className="card-img-top" alt="..." />
-					<div className="card-body">
-						<h5 className="card-title">Card title</h5>
-						<p className="card-text">
-							Some quick example text to build on the card title
-							and make up the bulk of the cards content.
-						</p>
-						<a href="#" className="btn btn-primary">
-							Go somewhere
-						</a>
+					<div className="card" style={{ width: "18rem" }}>
+						<img
+							src="https://i.ibb.co/bFwYCSZ/c.jpg"
+							className="card-img-top"
+							alt="..."
+						/>
+						<div className="card-body">
+							<h5 className="card-title">
+								Dieta balanceada? nunca!
+							</h5>
+							<p className="card-text">
+								Fanático de los chivitos, sushi, pulpón e
+								incluso de la pizza.
+							</p>
+							<a href="#" className="btn btn-primary">
+								Solicitar dieta oficial
+							</a>
+						</div>
+					</div>
+
+					<div className="card" style={{ width: "18rem" }}>
+						<img
+							src="https://i.ibb.co/9bKBTG3/d.jpg"
+							className="card-img-top"
+							alt="..."
+						/>
+						<div className="card-body">
+							<h5 className="card-title">Fan #1 </h5>
+							<p className="card-text">
+								Nadie toca el control remoto cuando juega
+								Uruguay, que nadie se atreva!
+							</p>
+							<a href="#" className="btn btn-primary">
+								Participar por camiseta autografiada
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
