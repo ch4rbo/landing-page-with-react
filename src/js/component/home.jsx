@@ -72,7 +72,7 @@ const Home = () => {
 				</div>
 
 				<div className="container-fluid d-flex justify-content-between">
-					<div className="card" style={{ width: "18rem" }}>
+					<div className="card" style={{ width: "14.30rem" }}>
 						<img
 							src="https://i.ibb.co/MkGWpwF/a.jpg"
 							className="card-img-top"
@@ -84,12 +84,12 @@ const Home = () => {
 								Se viene la primavera y Prometeo lo sabe.
 							</p>
 							<a href="#" className="btn btn-primary">
-								Solicitar lentes originales
+								Lentes originales
 							</a>
 						</div>
 					</div>
 
-					<div className="card" style={{ width: "18rem" }}>
+					<div className="card" style={{ width: "18.15rem" }}>
 						<img
 							src="https://i.ibb.co/QDQFtYC/b.jpg"
 							className="card-img-top"
@@ -102,7 +102,7 @@ const Home = () => {
 								siesta.
 							</p>
 							<a href="#" className="btn btn-primary">
-								Solicitar mantita autografiada
+								Mantita autografiada
 							</a>
 						</div>
 					</div>
@@ -114,15 +114,13 @@ const Home = () => {
 							alt="..."
 						/>
 						<div className="card-body">
-							<h5 className="card-title">
-								Dieta balanceada? nunca!
-							</h5>
+							<h5 className="card-title">Paladar fino</h5>
 							<p className="card-text">
 								Fanático de los chivitos, sushi, pulpón e
 								incluso la pizza.
 							</p>
 							<a href="#" className="btn btn-primary">
-								Solicitar dieta oficial
+								Dieta oficial
 							</a>
 						</div>
 					</div>
@@ -137,10 +135,10 @@ const Home = () => {
 							<h5 className="card-title">Fan #1 </h5>
 							<p className="card-text">
 								Nadie toca el control remoto cuando juega
-								Uruguay, que nadie se atreva!
+								Uruguay.
 							</p>
 							<a href="#" className="btn btn-primary">
-								Participa por una camiseta autografiada
+								Camiseta autografiada
 							</a>
 						</div>
 					</div>
