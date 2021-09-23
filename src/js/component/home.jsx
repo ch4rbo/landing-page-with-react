@@ -11,7 +11,7 @@ const Home = () => {
 				<div className="container-fluid d-flex justify-content-between">
 					<div>
 						<a className="navbar-brand" href="#">
-							Start Bootstrap
+							La página de Prome
 						</a>
 					</div>
 					<div>
@@ -29,17 +29,17 @@ const Home = () => {
 								</li>
 								<li className="nav-item">
 									<a className="nav-link" href="#">
-										About
+										Fans
 									</a>
 								</li>
 								<li className="nav-item">
 									<a className="nav-link" href="#">
-										Services
+										Tienda
 									</a>
 								</li>
 								<li className="nav-item">
 									<a className="nav-link" href="#">
-										Contact
+										Contacto
 									</a>
 								</li>
 							</ul>
@@ -119,7 +119,7 @@ const Home = () => {
 							</h5>
 							<p className="card-text">
 								Fanático de los chivitos, sushi, pulpón e
-								incluso de la pizza.
+								incluso la pizza.
 							</p>
 							<a href="#" className="btn btn-primary">
 								Solicitar dieta oficial
@@ -140,7 +140,7 @@ const Home = () => {
 								Uruguay, que nadie se atreva!
 							</p>
 							<a href="#" className="btn btn-primary">
-								Participar por camiseta autografiada
+								Participa por una camiseta autografiada
 							</a>
 						</div>
 					</div>
